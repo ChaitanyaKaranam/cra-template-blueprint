@@ -1,0 +1,1 @@
+> This section contains all the main pages in your application
