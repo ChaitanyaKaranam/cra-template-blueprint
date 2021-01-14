@@ -2,6 +2,12 @@
 
 Create react app template with pre-organized folder structure
 
+## Creating new react application using this template
+
+```
+npx create-react-app <APP_NAME> --template cra-template-blueprint
+```
+
 ## Folder Structure
 
 ```
